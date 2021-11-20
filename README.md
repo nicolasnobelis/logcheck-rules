@@ -1,7 +1,5 @@
-Some ignore rules for pihole on RaspberryOS
+### Some ignore rules for pihole on RaspberryOS
 
-
-The rules assume a hostname of `raspberrypi`. You may want to change that.
 
 Put them in /etc/logcheck/ignore.d.XXX where XXX is
 the verbosity set in Logcheck.

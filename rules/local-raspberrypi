@@ -1,1 +1,1 @@
-^\w{3} [ :0-9]{11} raspberrypi systemd\[1\]: Finished Clean php session files\.
+^\w{3} [ :0-9]{11} [._[:alnum:]-]+ systemd\[1\]: Finished Clean php session files\.
