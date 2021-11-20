@@ -1,0 +1,2 @@
+^\w{3} [ :0-9]{11} [._[:alnum:]-]+ sudo: www-data : PWD=/var/www/html/admin ; USER=root ; COMMAND=/usr/local/bin/pihole status web
+
