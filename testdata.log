@@ -3,3 +3,4 @@ Nov 20 00:00:59 raspberrypi systemd[1]: Starting Daily man-db regeneration...
 Nov 20 13:56:55 raspberrypi sudo: www-data : PWD=/var/www/html/admin ; USER=root ; COMMAND=/usr/local/bin/pihole status web
 Nov 21 18:25:43 raspberrypi systemd[1]: Finished Cleanup of Temporary Directories.
 Nov 28 06:15:49 raspberrypi systemd[1]: apt-daily-upgrade.service: Consumed 5.855s CPU time.
+Dec  5 07:56:53 raspberrypi systemd[1]: apt-daily.service: Consumed 9.997s CPU time.

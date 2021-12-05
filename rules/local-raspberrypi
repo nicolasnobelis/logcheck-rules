@@ -5,3 +5,6 @@
 ^\w{3} [ :0-9]{11} [._[:alnum:]-]+ systemd\[1\]: Finished Cleanup of Temporary Directories.
 
 ^\w{3} [ :0-9]{11} [._[:alnum:]-]+ systemd\[1\]: apt-daily-upgrade.service: Consumed [0-9.]+s CPU time.
+
+^\w{3} [ :0-9]{11} [._[:alnum:]-]+ systemd\[1\]: apt-daily.service: Consumed [0-9.]+s CPU time.
+
