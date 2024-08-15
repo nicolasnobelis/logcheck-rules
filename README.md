@@ -1,5 +1,8 @@
-### Some ignore rules for pihole on RaspberryOS
+### Some ignore rules for Logcheck on Debian-based systems
 
+Targets:
+* pihole on RaspberryOS
+* Linux Mint LMDE 6
 
 Put them in /etc/logcheck/ignore.d.XXX where XXX is
 the verbosity set in Logcheck.
