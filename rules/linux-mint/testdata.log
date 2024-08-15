@@ -1,0 +1,1 @@
+2024-07-28T17:57:08.219893+02:00 HOSTNAME NetworkManager[1136]: <info>  [1722182228.2198] device (enp6s0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')

@@ -1,0 +1,1 @@
+^[0-9:\.T\+\-]+ [._[:alnum:]-]+ NetworkManager\[[0-9]+\]: <info> .*$
