@@ -1,1 +1,14 @@
 2024-07-28T17:57:08.219893+02:00 HOSTNAME NetworkManager[1136]: <info>  [1722182228.2198] device (enp6s0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+
+2024-07-28T21:41:30.908015+02:00 HOSTNAME rtkit-daemon[2106]: Successfully called chroot.
+2024-07-28T21:41:30.908147+02:00 HOSTNAME rtkit-daemon[2106]: Successfully dropped privileges.
+2024-07-28T21:41:30.908304+02:00 HOSTNAME rtkit-daemon[2106]: Successfully limited resources.
+2024-07-28T21:41:30.908331+02:00 HOSTNAME rtkit-daemon[2106]: Canary thread running.
+2024-07-28T21:41:30.908465+02:00 HOSTNAME rtkit-daemon[2106]: Running.
+2024-07-28T21:41:30.908486+02:00 HOSTNAME rtkit-daemon[2106]: Watchdog thread running.
+2024-07-28T21:41:30.909569+02:00 HOSTNAME rtkit-daemon[2106]: Successfully made thread 2095 of process 2095 owned by '116' high priority at nice level -11.
+2024-07-28T21:41:30.909604+02:00 HOSTNAME rtkit-daemon[2106]: Supervising 1 threads of 1 processes of 1 users.
+
+# some entries with weirdly a different date format
+août 16 18:50:57 HOSTNAME rtkit-daemon[2179]: Supervising 16 threads of 11 processes of 1 users.
+
