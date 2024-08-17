@@ -9,6 +9,8 @@
 2024-07-28T21:41:30.909569+02:00 HOSTNAME rtkit-daemon[2106]: Successfully made thread 2095 of process 2095 owned by '116' high priority at nice level -11.
 2024-07-28T21:41:30.909604+02:00 HOSTNAME rtkit-daemon[2106]: Supervising 1 threads of 1 processes of 1 users.
 
+2024-08-16T23:02:02.474223+02:00 HOSTNAME dma[60fe4.55beb3126af0]: Server greeting successfully completed
+
 # some entries with weirdly a different date format
 août 16 18:50:57 HOSTNAME rtkit-daemon[2179]: Supervising 16 threads of 11 processes of 1 users.
 
