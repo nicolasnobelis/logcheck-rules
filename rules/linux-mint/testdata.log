@@ -13,6 +13,8 @@
 
 2024-08-17T08:14:12.322092+02:00 HOSTNAME wireplumber[2081]: Can't find org.freedesktop.portal.Desktop. Is xdg-desktop-portal running?
 
+2024-08-17T16:10:44.289306+02:00 HOSTNAME avahi-daemon[830]: New relevant interface enp6s0.IPv6 for mDNS.
+
 # some entries with weirdly a different date format
 août 16 18:50:57 HOSTNAME rtkit-daemon[2179]: Supervising 16 threads of 11 processes of 1 users.
 
