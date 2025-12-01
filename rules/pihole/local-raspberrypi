@@ -10,3 +10,5 @@
 
 ^\w{3} [ :0-9]{11} [._[:alnum:]-]+ runuser: pam_unix\(runuser:session\): session opened for user www-data\(uid=[0-9]+\) by \(uid=0\)
 ^\w{3} [ :0-9]{11} [._[:alnum:]-]+ runuser: pam_unix\(runuser:session\): session closed for user www-data
+
+^.* dma\[[[:alnum:]\.]+\]:.*$

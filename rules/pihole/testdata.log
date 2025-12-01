@@ -7,3 +7,18 @@ Dec  5 07:56:53 raspberrypi systemd[1]: apt-daily.service: Consumed 9.997s CPU t
 
 Dec  7 06:25:01 raspberrypi runuser: pam_unix(runuser:session): session opened for user www-data(uid=33) by (uid=0)
 Dec  7 06:25:01 raspberrypi runuser: pam_unix(runuser:session): session closed for user www-data
+
+Dec 01 20:02:11 pi dma[65428]: new mail from user=logcheck uid=109 envelope_from=<user@example.com>
+Dec 01 20:02:11 pi dma[65428]: mail to=<logs-pi@example.com> queued as 7dbd8.559edc9590
+Dec 01 20:02:11 pi dma[65429]: <logs-pi@example.com> trying delivery
+Dec 01 20:02:11 pi dma[65429]: using smarthost (mail.example.com:587)
+Dec 01 20:02:11 pi dma[65429]: trying remote delivery to mail.example.com [2001:1600:0:aaaa::1:2] pref 0
+Dec 01 20:02:11 pi dma[65429]: Server greeting successfully completed
+Dec 01 20:02:11 pi dma[65429]:   Server supports STARTTLS
+Dec 01 20:02:11 pi dma[65429]:   Server supports LOGIN authentication
+Dec 01 20:02:12 pi dma[65429]: SSL initialization successful
+Dec 01 20:02:12 pi dma[65429]: Server greeting successfully completed
+Dec 01 20:02:12 pi dma[65429]:   Server does not support STARTTLS
+Dec 01 20:02:12 pi dma[65429]:   Server supports LOGIN authentication
+Dec 01 20:02:12 pi dma[65429]: using SMTP authentication for user user@example.com
+Dec 01 20:02:12 pi dma[65429]: <logs-pi@example.com> delivery successful
